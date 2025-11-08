@@ -39,4 +39,9 @@ PORT=5000
 git clone https://github.com/simplysamiul/med-projukti-backend.git
 cd hospital-backend
 
+npm install
+npm start
+node index.js
+
+
 
