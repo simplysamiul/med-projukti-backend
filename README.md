@@ -36,7 +36,7 @@ DB_USER=yourMongoDBUser
 DB_PASS=yourMongoDBPassword
 PORT=5000
 
-git clone https://github.com/yourusername/hospital-backend.git
+git clone https://github.com/simplysamiul/med-projukti-backend.git
 cd hospital-backend
 
 
